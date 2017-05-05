@@ -1,0 +1,20 @@
+{
+  "name": "svg2imageset",
+  "version": "1.0.0",
+  "description": "converts an svg to an xcode image set",
+  "main": "svg2imageset.js",
+  "bin": {
+    "svg2imageset": "./svg2imageset.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/leaffm/svg2imageset.git"
+  },
+  "author": "samiq",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "~2.4.1",
+    "nomnom": "~1.6.2",
+    "shelljs": "~0.2.6"
+  }
+}
