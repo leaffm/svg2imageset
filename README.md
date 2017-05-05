@@ -13,7 +13,7 @@ Install it with with `brew install librsvg` on OSX.
 
 # Usage
 
-    $ svg2imageset -x 24 -y 24 -o icons/ svg/*.svg
+    $ svg2imageset -w 24 -h 24 -o icons/ svg/*.svg
 
 # Options
 
