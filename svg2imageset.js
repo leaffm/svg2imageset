@@ -13,11 +13,11 @@ if (!which('rsvg-convert')) {
 
 var opts = require("nomnom")
    .option('width', {
-      abbr: 'w',
+      abbr: 'x',
       help: 'Input svg width'
    })
    .option('height', {
-      abbr: 'h',
+      abbr: 'y',
       help: 'Input svg height'
    })
    .option('output', {
