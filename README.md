@@ -3,9 +3,9 @@ batch converts svg files to xcode image sets ready to be dropped in your iOS pro
 
 # Requirements
 
-svg2imageset requires `libsrvg2` to resize SVG files.
+svg2imageset requires `libsrvg2` to process and generate the files.
 
-Install it with `sudo apt-get install librsvg2-bin` on Linux or with `brew install librsvg` on OSX.
+Install it with with `brew install librsvg` on OSX.
 
 # Install
 
