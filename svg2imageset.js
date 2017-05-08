@@ -53,7 +53,7 @@ svgFiles.forEach(function(svgPath) {
             },
             {
             "idiom" : "universal",
-            "filename" : baseName + "2x.png",
+            "filename" : baseName + "@2x.png",
             "scale" : "2x"
             },
             {

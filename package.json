@@ -1,6 +1,6 @@
 {
   "name": "svg2imageset",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "converts an svg to an xcode image set",
   "main": "svg2imageset.js",
   "bin": {
