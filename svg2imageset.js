@@ -34,7 +34,7 @@ var svgFiles = opts._;
 svgFiles.forEach(function(svgPath) {
 
     var baseName = path.basename(svgPath, '.svg');
-    var output = opts.output + baseName;
+    var output = opts.output + baseName + ".imageset";
 
     if (!fs.existsSync(output)){
         fs.mkdirSync(output);
